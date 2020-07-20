@@ -7,8 +7,8 @@ const Card = ({ article }) => {
       <div className="uk-card uk-card-muted">
         <div className="uk-card-media-top">
           <img
-            src={article.node.image.url}
-            alt={article.node.image.url}
+            src={article.node.image.publicURL}
+            alt={article.node.image.publicURL}
             height="100"
           />
         </div>
