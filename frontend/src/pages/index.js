@@ -20,7 +20,7 @@ const IndexPage = () => (
                   name
                 }
                 image {
-                  url
+                  publicURL
                 }
               }
             }
