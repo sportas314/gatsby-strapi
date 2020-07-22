@@ -9,10 +9,10 @@
     "timestamps": true
   },
   "attributes": {
-    "name__es": {
+    "name_es": {
       "type": "string"
     },
-    "name__en": {
+    "name_en": {
       "type": "string"
     },
     "name": {

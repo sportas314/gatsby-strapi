@@ -35,6 +35,22 @@
     "category": {
       "model": "category",
       "via": "articles"
+    },
+    "title_es": {
+      "type": "string",
+      "required": true
+    },
+    "title_en": {
+      "type": "string",
+      "required": true
+    },
+    "content_es": {
+      "type": "richtext",
+      "required": true
+    },
+    "content_en": {
+      "type": "richtext",
+      "required": true
     }
   }
 }
